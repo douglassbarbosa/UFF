@@ -72,7 +72,7 @@ public class testeCarrinho {
 	
 
 
-	@DisplayName("que teste é esse?")
+	@DisplayName("Teste Produto NÃ£o Existe | Exception")
 	@Test
 	public void testeProdutoNaoEncontrado() {
 		carrinho.esvazia();
